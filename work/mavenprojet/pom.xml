@@ -19,7 +19,7 @@
 
     <properties>
 
-        <yaml.version>1.25</yaml.version>
+        <yaml.version>1.32</yaml.version>
     </properties>
 
     <dependencies>
